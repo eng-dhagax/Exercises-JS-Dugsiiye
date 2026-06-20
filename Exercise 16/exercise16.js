@@ -1,4 +1,4 @@
-// Exercise 16
+// Exercise 16 solution
 let score = 77;
 
 if (score >= 50) {
