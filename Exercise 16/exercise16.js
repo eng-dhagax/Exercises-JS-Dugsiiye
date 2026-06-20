@@ -3,6 +3,6 @@ let score = 77;
 
 if (score >= 50) {
     console.log("You passed");
-}else{
+} else {
     console.log("You failed");
 }
